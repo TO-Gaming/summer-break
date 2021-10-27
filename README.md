@@ -9,7 +9,7 @@
 
 המשחק מבוסס על הספר "החופש הגדול וצרות אחרות" מאת דני רווה.
   
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimania.co.il%2Fbookdetails.php%3Fitem_id%3D1136&psig=AOvVaw3X1MwWewbTHBCCD2rPvZ6M&ust=1635404878970000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCWm4mE6vMCFQAAAAAdAAAAABAS" width="350" title="hover text">
+ <img src="https://simania.co.il/bookimages/covers0/1136.jpg" width="350" title="hover text">
   
 ניקח את החוויות של איתן ודניאל בחופש הגדול ונפצל אותם למספר מיני משחקים הכוללים את החוויות
 
